@@ -1,4 +1,4 @@
-### Retos de la sesión 2
+### Retos de la sesión 3
 ## Por Alan Kevin Fuentes García
 
 USE tienda;
