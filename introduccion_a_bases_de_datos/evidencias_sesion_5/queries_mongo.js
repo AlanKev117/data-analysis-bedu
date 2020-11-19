@@ -1,5 +1,7 @@
 /**
  * Retos de la sesión 5.
+ * 
+ * Alan Kevin Fuentes García
  */
 
 const queries_reto_1 = [
