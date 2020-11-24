@@ -168,7 +168,7 @@ Partiendo de los mismos archivos, la carga en una base de datos MongoDB resultó
 
 ![Carga Mongo](./images/carga_mongo.png)
 
-Hacemos pruebas corresopndientes para cada colección:
+Hacemos las pruebas correspondientes para cada colección:
 
 * `movies`:
 ![Prueba Movies](./images/prueba_movies.png)
